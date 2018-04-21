@@ -1,0 +1,21 @@
+https://www.youtube.com/watch?v=NkomAUQxYr8&t=13s
+
+Iniciando um aplicação com SASS, GULP, NODEJS
+
+1º  Vamos instalar nodeJs na nossa maquina.
+	Vamos no site nodejs.org, lá teremos o link para baixar a última versão. 
+	Agora podemos rodar prompt command do node.js onde teremo o NPM (Node Package Manager),  para podermos baixar os nossos pacotes.
+	Pesquise no windows "node.js command prompt" e execute.
+	Rode o seguinte código:  "npm -v". (Retornará a versão do npm instalada)
+
+2º Instalar o GULP
+	Rode: "npm install -g gulp" (Irá instalar o Gulp global)
+	Rode: "gulp -v" (Verá a versão do Gulp instalada)
+
+3º Criar pasta do projeto
+	Escolha um local para criar sua pasta do projeto.
+	Volte no prompt de command do node e navegue até a paste que você criou utilizando "dir " e "cd" (Comandos usados para ver e entrar dentro de pastas respectivamente)
+
+4º Criar arquivo "package.json" na raiz do projeto
+	Abrir arquivo e inserir dentro dele as chaves "{}"
+	
